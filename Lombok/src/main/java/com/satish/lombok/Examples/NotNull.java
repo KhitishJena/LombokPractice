@@ -26,10 +26,7 @@ public class NotNull {
 		System.out.println(temp+" "+x);
 		
 		NotNull nn = new NotNull();
-		nn.notNullTest(temp);   //replace temp with "null" to understand more and get the compilation error because NonNull tag
-		
-		
-		
+		nn.notNullTest(temp);   //replace temp with "null" to understand more and get the compilation error because NonNull tag		
 		
     }
 
